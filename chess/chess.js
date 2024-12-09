@@ -19,11 +19,4 @@ for (let i = 0; i < bindingSize; i++) {
         }
     }
     console.log(raw);
-    // if (i % 2 == 0) {
-    //     console.log("# # # #");
-    // }
-    // else {
-    //     console.log(" # # # #");
-
-    // }
 }
