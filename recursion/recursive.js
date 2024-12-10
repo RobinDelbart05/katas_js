@@ -1,7 +1,7 @@
 function isEven(n) {
     console.log(n);
 
-    if (n === 0) return "ok";
+    if (n === 0) return true;
     return isEven(n - 2);
 }
 
